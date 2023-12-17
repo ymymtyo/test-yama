@@ -1,1 +1,1 @@
-# test-yama.github.io
+# test-yama
